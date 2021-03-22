@@ -1,2 +1,5 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. Decide how to pay
+4. Decide when to pick up
+5. Decide who is driving
